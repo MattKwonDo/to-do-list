@@ -2,7 +2,7 @@
 
 # serverless-to-do-list
 
-This is a single list that contains many items [To do List](index.html)
+This is a single list that contains many items [To do List](https://mattkwondo.github.io/to-do-list/index.html)
 - When an item is clicked it will be striked out
 - It will allow the addition of new items
 - It will allow the deletion of items
